@@ -1,31 +1,5 @@
-header {
-  width: 100%;
-  background-color: red;
-  padding: 2em;
-  position: sticky;
-  top: 0;
-}
-
 section {
   width: 100%;
   min-height: 100svh;
   overflow: hidden;
-}
-
-.aboutMeContainer {
-  background-color: teal;
-}
-
-.skillsContainer {
-  background-color: aquamarine;
-}
-
-.portfolioContainer {
-  background-color: blue;
-}
-
-footer {
-  width: 100%;
-  background-color: red;
-  padding: 2rem;
 }

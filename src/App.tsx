@@ -1,9 +1,10 @@
-import React from "react";
-import AboutMe from "./features/AboutMe";
-import Skills from "./features/Skills";
-import Portfolio from "./features/Portfolio";
-import Header from "./features/Header";
-import Contact from "./features/Contact";
+import AboutMe from "./features/aboutMe/AboutMe";
+import Skills from "./features/skills/Skills";
+import Portfolio from "./features/portfolio/Portfolio";
+import Header from "./features/header/Header";
+import Contact from "./features/contact/Contact";
+
+import "./App.css";
 
 export default function App() {
   return (
